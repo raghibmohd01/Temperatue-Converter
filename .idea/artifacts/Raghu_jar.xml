@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Raghu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Raghu_jar</output-path>
+    <root id="archive" name="Raghu.jar">
+      <element id="module-output" name="TempConverter" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
